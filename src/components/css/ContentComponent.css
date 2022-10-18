@@ -1,0 +1,28 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    height:300px;
+    background-color: wheat;
+}
+.tbl,tr,th,td{
+ border:2px solid black;
+}
+.tbl{
+    width:500px;
+}
+.contentHeader{
+    margin-right:62rem ;
+     border:2px solid orangered;
+     align-items: center;
+     border-width: 0.5em;
+     height: 15rem;
+     margin-top: 2rem;
+
+}
+hr{
+    width: 14rem;
+    margin-right: 2rem;
+    
+}

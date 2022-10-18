@@ -1,0 +1,22 @@
+.sidebar{
+    
+    border:2px solid orangered;
+    align-items: center;
+    border-width: 0.5em;
+    height: 15rem;
+   margin-top: -16rem;
+   width: 20rem;
+  margin-left: 22rem;
+}
+.aside-list{
+padding: 3rem;
+margin-top: -3rem;
+}
+.aside-list  li{
+    list-style: none;
+    display: block;
+    border:1px solid green;
+    border-width: 0.3rem;
+    height: 2rem;
+    width: 12rem;
+}
